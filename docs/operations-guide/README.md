@@ -39,3 +39,5 @@ Edition 26 October 2026. Repository OchsSoft/LLMProjectMemory. Inspected source 
 Source files: [README.md](https://github.com/OchsSoft/LLMProjectMemory/blob/4d86efe5ed721ddefad9d118c0a51cea05b3ef5e/README.md).
 
 [Editable Word edition](Operations_Guide.docx) | [PDF edition](Operations_Guide.pdf)
+
+For architecture, code-level explanations, worked change recipes, and detailed recovery, use the [development handbook](../development-handbook/README.md).
