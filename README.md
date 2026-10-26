@@ -40,3 +40,7 @@ last_verified: 2026-04-27
 ```
 
 The key rule is that Markdown files are not the whole system. The value comes from stable note IDs, provenance, status/confidence, links, and retrieval discipline.
+
+## Operations guide
+
+Read the [repository operations guide](docs/operations-guide/README.md) for startup, working checks, troubleshooting, safe shutdown, and the Word/PDF editions.
